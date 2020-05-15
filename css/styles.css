@@ -36,4 +36,10 @@ h2 , h4 {
 .col-md-3  {
   padding: 10px;
   overflow: hidden;
+  text-align: center;
+}
+.frame  {
+  height: 150px;
+  background: transparent no-repeat center;
+  background-size: cover;
 }
