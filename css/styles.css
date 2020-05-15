@@ -29,6 +29,9 @@ h2 , h4 {
   color: white;
   padding: 110px;
 }
+.what-we-do {
+  padding: 50px;
+}
 .background3  {
   background-image: url('images/backgrounds/c_image.jpg');
   background-repeat: no-repeat;
