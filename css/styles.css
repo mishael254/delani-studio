@@ -85,15 +85,19 @@ div img {
   padding: 200px;
 
 }
-.col-md-3  {
-  padding: 50px;
+.col-md-2  {
+  padding: 10px;
   overflow: hidden;
   text-align: center;
 }
 .frame  {
-  height: 150px;
+  height:160px;
   background: transparent no-repeat center;
   background-size: cover;
+}
+.frame:hover  {
+  opacity: 0.7;
+  color: black;
 }
 .social {
   text-align: center;
