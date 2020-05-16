@@ -13,6 +13,9 @@ div {
 div img {
   padding:50px;
 }
+div img:hover {
+  opacity: 0.1;
+}
 
 
 .background1  {
@@ -96,7 +99,7 @@ div img {
   background-size: cover;
 }
 .frame:hover  {
-  opacity: 0.7;
+  opacity: 0.4;
   color: black;
 }
 .social {
