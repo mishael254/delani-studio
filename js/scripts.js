@@ -24,7 +24,7 @@ $(document).ready(function() {
     var email = $("input#email").val();
     var message = $("input#message").val();
     var result = output(name, email, message)
-    alert(name+result)
+    alert(name + result)
     event.preventDefault();
  });
 });
