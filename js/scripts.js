@@ -9,3 +9,12 @@ var output = function(name, email, message) {
     return warning
   }
 }
+
+
+
+
+
+
+
+
+//front-end logic
