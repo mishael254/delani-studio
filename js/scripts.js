@@ -18,3 +18,5 @@ var output = function(name, email, message) {
 
 
 //front-end logic
+$(document).ready(function() {
+  $("#blanks form").submit(function(event) {
