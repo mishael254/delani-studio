@@ -25,3 +25,6 @@ $(document).ready(function() {
     var message = $("input#message").val();
     var result = output(name, email, message)
     alert(name+result)
+    event.preventDefault();
+ });
+});
