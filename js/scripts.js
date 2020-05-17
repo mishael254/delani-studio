@@ -20,3 +20,6 @@ var output = function(name, email, message) {
 //front-end logic
 $(document).ready(function() {
   $("#blanks form").submit(function(event) {
+    var name = $("input#name").val();
+    var email = $("input#email").val();
+    var message = $("input#message").val();
