@@ -23,3 +23,5 @@ $(document).ready(function() {
     var name = $("input#name").val();
     var email = $("input#email").val();
     var message = $("input#message").val();
+    var result = output(name, email, message)
+    alert(name+result)
